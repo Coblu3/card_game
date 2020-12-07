@@ -1,4 +1,3 @@
-Proje Akif Demirel 190201011 tarafından yapıldı.
 
-Oyunu başlatmak için test.java classını çalıştırmak gerekmekte, karşınıza anamenu ekranı çıkacak orda isterseniz kullanıcı adınızı girebilirsiniz,
-sonrasında ekranda bulunan 16 tane arkası dönük karttan üsttekiler futbolcu alttakiler basketbolcu, o kartlardan 8 tane seçip ortadaki herhangi bir karta tıkladığınızda kalan kartlar bilgisayara geçecek.
+To start the game, you need to start the test.java class, you will come across it or you can enter your username if you want,
+If you select 8 cards, click any card, the remaining cards will go to the computer's cards.
